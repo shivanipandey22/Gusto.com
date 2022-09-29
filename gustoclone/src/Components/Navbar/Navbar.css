@@ -1,0 +1,14 @@
+#container {
+    display: flex;
+    margin: auto;
+    /* border: 1px solid black; */
+    width: 50%;
+}
+
+#nav_box {
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid black; */
+    width: 100%;
+    margin-left: 1rem;
+}
