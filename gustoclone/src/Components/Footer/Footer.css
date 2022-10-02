@@ -1,0 +1,27 @@
+#foot_box {
+  display: flex;
+  justify-content: space-around;
+  width: 90%;
+  margin: auto;
+}
+#foot_bottom {
+  display: flex;
+  justify-content: space-around;
+  width: 90%;
+  margin: auto;
+}
+.text {
+  margin-left: 10%;
+}
+#foot_bottomA {
+  width: 20%;
+}
+#foot_bottomB {
+  border-top: 1px solid rgb(171, 166, 166);
+  display: flex;
+  justify-content: space-between;
+  width: 60%;
+}
+#copyright{
+  margin-left: 10%;
+}

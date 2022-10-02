@@ -1,0 +1,36 @@
+#loginboxA {
+  width: 30%;
+  margin: auto;
+  border: 1px solid;
+  text-align: center;
+}
+.btnA {
+  width: 60%;
+  height: 30px;
+  margin-top: 1%;
+}
+.btnB {
+  width: 60%;
+  height: 30px;
+  background-color: coral;
+  margin-top: 1%;
+}
+input {
+  width: 60%;
+  height: 30px;
+  margin-top: 1%;
+}
+#btnCbox {
+  display: flex;
+  width: 62%;
+  margin: auto;
+}
+#btnCbox input {
+  width: 49%;
+}
+ul {
+  text-align: left;
+}
+ul li {
+  list-style-type: circle;
+}

@@ -1,0 +1,152 @@
+#landing_page {
+  margin-top: 5%;
+}
+#top_box1 {
+  width: 100%;
+  display: flex;
+  background-color: #f8f5f2;
+  justify-content: space-around;
+}
+#left_top1 {
+  width: 30%;
+}
+#left_top1 h1 {
+  font-size: 35px;
+}
+
+#left_top1 p {
+  font-size: 20px;
+}
+.prom_box {
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  background-color: white;
+  margin: 5%;
+  border-radius: 10px;
+}
+.prom_box p {
+  margin-top: 1%;
+}
+.prom_box_child {
+  align-items: left;
+}
+#bottom_box {
+  width: 80%;
+  /* border: 1px solid; */
+  margin: auto;
+}
+#learn_btn {
+  width: 200px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  background-color: #f8f5f2;
+  /* border: 1px solid; */
+}
+#promo_img {
+  width: 45%;
+  /* border: 1px solid; */
+}
+#promo_img img {
+  width: 100%;
+  /* border: 1px solid; */
+}
+#bottomBoxA {
+  display: flex;
+  justify-content: space-between;
+  /* width: 100%; */
+  /* margin-left: 20%; */
+  margin-top: 5%;
+  /* border: 1px solid; */
+}
+#bottomLeftBox {
+  width: 54%;
+  /* border: 1px solid; */
+  padding: 2%;
+}
+.serv_text {
+  font-weight: lighter;
+}
+#price_box {
+  background-color: #f8f5f2;
+  display: flex;
+  justify-content: space-around;
+}
+#price_box button {
+  width: 150px;
+  height: 35px;
+  background-color: #f45d48;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  margin-top: 25%;
+}
+#bottomBoxB {
+  display: flex;
+  justify-content: space-between;
+  /* width: 100%; */
+  /* margin-left: 20%; */
+  margin-top: 5%;
+  /* border: 1px solid; */
+}
+#banner_one {
+  width: 100%;
+  height: 200px;
+  padding: 6%;
+  background-color: #8dd3d4;
+}
+#sign {
+  margin-left: 30%;
+  margin-top: 0%;
+  /* border: 1px solid; */
+}
+#prc_txt {
+  margin-left: 45%;
+  margin-top: 8%;
+  color: #f45d48;
+}
+#bottomBoxC {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+#bottomBoxC div {
+  border-right: 1px solid;
+  border-color: gray;
+  width: 75%;
+  margin-left: 2%;
+  text-align: center;
+}
+#acn_btn {
+  width: 150px;
+  height: 35px;
+  background-color: #f45d48;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  margin: 5% 45%;
+}
+#acn_btnA {
+  width: 120px;
+  height: 35px;
+  background-color: #f45d48;
+  color: white;
+  border: none;
+  border-radius: 3px;
+}
+#acn_btnB {
+  width: 200px;
+  height: 35px;
+  background-color: seashell;
+  color: black;
+  border: none;
+  border-radius: 3px;
+  margin-left: 3%;
+}
+
+#team_text {
+  margin-left: 28%;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
